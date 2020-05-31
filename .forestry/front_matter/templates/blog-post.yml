@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: text
   description: Blog text
+pages:
+- _posts/welcome.md
