@@ -1,17 +1,10 @@
 ---
 layout: post
 title: About
+
 ---
+## About this blog
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+I had left this blog on the back-burner for a long time.This is not going to be  a technical blog nor am I trying to promote my culture or anything through this blog. This is my personal blog, a place where I want to put all the words that have been crawling beneath my skin since long - The stories that I always wanted to share with a friend or those that I wanted the world to know - The letters that I wanted to write some people, the replies I never got to send back. I guess this blog will give you an image of who Anirudh really is - beneath that smile or frown -what he wants to say  when he's silent , or what he doesn't when he's speaking.
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
-
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+Thank You
