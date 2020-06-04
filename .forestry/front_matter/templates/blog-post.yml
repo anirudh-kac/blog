@@ -12,5 +12,3 @@ fields:
       format: markdown
   label: text
   description: Blog text
-pages:
-- _posts/2020-05-31-welcome.md
