@@ -9,7 +9,7 @@ It feels like yesterday that I had taken off my school uniform and kept it in th
 
 Life was simple back then  but why do I feel like that I lost everything and everyone now  - even myself.  Why does it feel that it has been forever that there was this genuine smile on my face and I knew who I was , what I wanted and where I was headed to? I only know half of the answer...
 
-A lot happened of thing happened in my life , things that happen with everyone but in ways that they became hard to endure. Everyone loses friends , feels lost , leaves home and misses it badly but does everyone just become stoic when it comes to people , does everyone fear trying to find oneself , does everyone feel like he isn't home even when he's in the same room the walls of which he scribbled on as a kid?
+A lot  of things happened in my life , things that happen with everyone but in ways that they became hard to endure. Everyone loses friends , feels lost , leaves home and misses it badly but does everyone just become stoic when it comes to people , does everyone fear trying to find oneself , does everyone feel like he isn't home even when he's in the same room the walls of which he scribbled on as a kid?
 
 //Todo
 
